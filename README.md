@@ -1,5 +1,3 @@
-# Websystem für Minecraft Netzwerk
-
 ![Laravel](https://img.shields.io/badge/Laravel-Entwicklung-black?style=for-the-badge&logo=laravel)
 ![Jetstream](https://img.shields.io/badge/Jetstream-Technologie-black?style=for-the-badge&logo=laravel)
 ![Modern Technologies](https://img.shields.io/badge/Modern_Technologies-Entwicklung-black?style=for-the-badge)
